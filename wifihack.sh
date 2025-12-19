@@ -151,7 +151,7 @@ escanear_redes
 while true; do
     echo ""
     echo -e "${CYAN}${BOLD}[${YELLOW}?${CYAN}]${GREEN} Seleccione objetivo (1-5):${NC}"
-    echo -e "${CYAN}${BOLD}[${RED}99${CYAN}]${GREEN} Limpieza profunda${NC}"
+    echo -e "${CYAN}${BOLD}[${RED}99${CYAN}]${GREEN} HACKEAR RED WIFI${NC}"
     echo -e "${CYAN}${BOLD}[${RED}X${CYAN}]${GREEN} Salir${NC}"
     echo ""
     read -p "$(echo -e "${RED}root@hack:~# ${NC}")" opcion
